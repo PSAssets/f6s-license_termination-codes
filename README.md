@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains our standardized reason codes for terminating license agreements for Fortress. It provides a structured XML definition of termination reasons used in our compliance processes.
+This repository contains our standardization of reason codes for terminating licenses to Fortress. It provides an XML of the reasons that we use in the compliance processes.
 
 ## Intentions
 
@@ -12,4 +12,4 @@ We share this XML to:
 
 ## License
 
-We released this XML file under MIT License. Use freely for any purpose. Copy, modify, distribute or commercialize without permission. Provided the copyright notice and permission notice are included in all copies or substantial portions of the file.
+We released this XML file under [MIT License](https://opensource.org/license/mit). Use freely for any purpose. Copy, modify, distribute or commercialize without permission. Provided the copyright notice and permission notice are included in all copies or substantial portions of the file.
