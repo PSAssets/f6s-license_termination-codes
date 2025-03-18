@@ -6,8 +6,8 @@ This repository contains our standardization of reason codes for terminating lic
 
 We share this XML to:
 
-1.  help compliance teams integrate standardized termination codes into their risk management systems,
-2.  provide a reference for defining responsibilities around potential termination scenarios and
+1.  help compliance teams integrate the standardized termination codes into their risk management systems,
+2.  provide a reference for defining responsibilities around the potential termination scenarios and
 3.  share our approach to the standardization of license termination reasons for Fortress.
 
 ## License
