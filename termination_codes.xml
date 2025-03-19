@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TerminationCodes>
+
+    <TerminationType id="1000" name="Mandatory Termination">
+
+        <ReasonGroup id="1100" name="Financials">
+            <ReasonCode id="1101" name="NO_PAYMENT" />
+        </ReasonGroup>
+
+        <ReasonGroup id="1200" name="Business Request">
+            <ReasonCode id="1201" name="BUSINESS_DECISION" />
+            <ReasonCode id="1202" name="HIKE_EXIT" />
+            <ReasonCode id="1203" name="DOWNGRADE" />
+        </ReasonGroup>
+
+    </TerminationType>
+
+    <TerminationType id="2000" name="Optional Termination">
+
+        <ReasonGroup id="2100" name="Breach of Contract">
+            <ReasonCode id="2101" name="AGREEMENT_VIOLATION_GENERAL" />
+            <ReasonCode id="2102" name="PROHIBITED_USE" />
+            <ReasonCode id="2103" name="EXCESS_USE" />
+        </ReasonGroup>
+        <ReasonGroup id="2200" name="Fraud &amp; Misrepresentation">
+            <ReasonCode id="2201" name="MISLEADING_INFO" />
+            <ReasonCode id="2202" name="RE-CONTRACTING_ATTEMPT" />
+        </ReasonGroup>
+        <ReasonGroup id="2300" name="Threats to Security">
+            <ReasonCode id="2301" name="SECURITY_RISK" />
+        </ReasonGroup>
+        <ReasonGroup id="2400" name="Threats to Operations">
+            <ReasonCode id="2401" name="REPUTATIONAL_RISK" />
+            <ReasonCode id="2402" name="ILLEGALITIES" />
+            <ReasonCode id="2403" name="SANCTIONS" />
+        </ReasonGroup>
+    </TerminationType>
+
+</TerminationCodes>
