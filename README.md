@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains our standardization of reason codes for terminating a license to Fortress. It provides an XML of the reasons that we use in the compliance processes.
+This repository contains reason codes for terminating a license to Fortress. It provides an XML of the reasons that we use in the compliance processes.
 
 ## Intentions
 
